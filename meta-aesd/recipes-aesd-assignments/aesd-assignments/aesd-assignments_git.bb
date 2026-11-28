@@ -16,8 +16,8 @@ PV = "1.0+git${SRCPV}"
 # TODO: set to reference a specific commit hash in your assignment repo
 #SRCREV = "f99b82a5d4cb2a22810104f89d4126f52f4dfaba"
 #SRCREV = "71e88f5c808f8a3e188b5fe4d2c79c9a95977cef"
-SRCREV = "4029a329a4f024ed7dff85dbbc82d207f31e2358"
-
+#SRCREV = "4029a329a4f024ed7dff85dbbc82d207f31e2358"
+SRCREV = "c81eef2a43b2f9de3ad21b777eb3566808a4a14f"
 # This sets your staging directory based on WORKDIR, where WORKDIR is defined at 
 # https://docs.yoctoproject.org/ref-manual/variables.html?highlight=workdir#term-WORKDIR
 # We reference the "server" directory here to build from the "server" directory
